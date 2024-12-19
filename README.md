@@ -1,5 +1,5 @@
-# LDT_satellite_task18_2023
-Leaders of digital transformation hackathon 2023. Task 18 efficient processing algorithm for satellite images of the Russian orbital group
+# LDT_satellite_task18_2024
+Leaders of digital transformation hackathon 2024. Task 18 efficient processing algorithm for satellite images of the Russian orbital group
 
 ## Hackaton "Leaders fo digital itransrofmation" 
 _Task 18_ "Efficient professing algorithm for satellite images of the Russian orbitral group"
